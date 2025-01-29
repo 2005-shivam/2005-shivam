@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @2005-shivam
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Frontend Development
+- 🌱 Frontend Developer
+- command on c,c++,python languages
+- 
 - 📫 How to reach me ...
 
 
