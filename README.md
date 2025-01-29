@@ -2,8 +2,7 @@
 - 👀 I’m interested in Front-end Development
 - 🌱 Frontend Developer
 - command on c,c++,python languages
-- 
-- 📫 How to reach me ...
+- 📫 How to reach me -- shivamprasad935@gmail.com
 
 
 <!---
